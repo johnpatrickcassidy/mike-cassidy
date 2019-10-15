@@ -213,7 +213,9 @@ i {
   -webkit-transform: rotate(-45deg);
 }
 
-
+.tighten {
+  margin-top: -24px;
+}
 
 
 
