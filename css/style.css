@@ -221,8 +221,14 @@ i {
   margin-top: 6px;
 }
 
+.smaller.more-space {
+  margin-top: 48px;
+}
+
+/*@TODO: Change this to an H3*/
 .smaller {
   font-size: 20px;
+  font-weight: 700;
 }
 
 
