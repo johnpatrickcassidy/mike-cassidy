@@ -73,6 +73,11 @@ h5 {
   color: #AECBFA;
 }
 
+h6 {
+  font-size: 16px;
+  color: #AECBFA;
+}
+
 header {
   background-color: #174EA6;
   padding: 16px 0 20px 0;
