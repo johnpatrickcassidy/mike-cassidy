@@ -278,6 +278,10 @@ Media queries
     font-style: italic;
     color: #AECBFA;
   }
+
+  .email {
+    font-size: 14px;
+  }
 }
 
 
